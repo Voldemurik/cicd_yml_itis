@@ -1,0 +1,17 @@
+item,category,quantity,price,status
+P01,office,2,19.50,active
+P02,office,3,4.25,active
+P03,food,5,10.00,inactive
+P04,tools,1,99.99,active
+P05,food,4,7.80,active
+P06,office,2,15.00,inactive
+P07,tools,3,39.90,active
+P08,food,8,1.25,active
+P09,clothes,2,44.20,inactive
+P10,office,7,3.15,active
+P11,tools,1,120.00,active
+P12,clothes,3,30.50,active
+P13,food,9,2.00,inactive
+P14,clothes,1,85.00,active
+P15,tools,2,12.75,active
+P16,office,4,8.60,active

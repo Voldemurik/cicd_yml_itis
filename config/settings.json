@@ -1,0 +1,5 @@
+{
+  "project_name": "ci-lab",
+  "report_format": "json",
+  "ci_enabled": true
+}

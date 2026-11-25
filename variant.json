@@ -1,0 +1,12 @@
+{
+  "schema_version": 2,
+  "repository": "urfu_itis_limits/cicd_yml_2026-voldemurik-b0ety",
+  "actor": "voldemurik",
+  "branch": "student/voldemurik",
+  "variant_id": "CI-33",
+  "static": "S3",
+  "dynamic": "D6",
+  "mode": "active_count",
+  "artifact_name": "student-results",
+  "artifact_path": "dist/report.json"
+}
